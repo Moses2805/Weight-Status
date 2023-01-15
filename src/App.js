@@ -54,7 +54,7 @@ function App(){
     return (
         <div className="container">
             <div className="row mt-5">
-                <div className="col-5 col-xl-5 col-lg-5 col-md-5">
+                <div className="col-12 col-xl-5 col-lg-5 col-md-5">
                 <Board res = {res}/>
                 <BoardWS stat={stat} />
                 
